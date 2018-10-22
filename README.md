@@ -1,0 +1,2 @@
+# treningowe
+training repository
